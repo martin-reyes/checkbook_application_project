@@ -1,7 +1,14 @@
-# In this version I want to use pandas to help the user read and manage the transactions.
-# I also want to use pandas to read, store, and save the transactions
-
-
+# In this version I add bonus features
+# Add a menu item that allows the user to view all historical transactions
+# Assign categories to each transaction
+# Add a menu item to allow the user to view all the transactions in a given category
+# Provide the user with summary statistics about the transactions in each category
+# Keep track of the date and time that each transaction happened
+# Allow the user to view all the transactions for a given day
+# Hint: Make sure your list of previous transactions includes the timestamp for each
+# Allow the user to optionally provide a description for each transaction
+# Allow the user to search for keywords in the transaction descriptions, and show all the transactions that match the user's search term
+# Allow the user to modify past transactions
 
 
 import os
